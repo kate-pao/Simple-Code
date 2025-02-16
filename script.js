@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', updateTaskList);
 // Use addEventListener to the add task button
 addTaskBtn.addEventListener('click', addTask);
 
-// Create a function to add task in tasks in the array
+// Create a function to add task in the array
 function addTask(){
 
     // Get the input task value
